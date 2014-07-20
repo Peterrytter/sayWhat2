@@ -1,0 +1,5 @@
+name: sayWhat
+main: io.github.peterrytter.sayWhat
+version: 1.0
+description: >
+             Say Hello Plugin .
